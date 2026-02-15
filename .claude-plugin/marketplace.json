@@ -1,7 +1,7 @@
 {
-  "name": "knowledge-work-plugins",
+  "name": "donbr-bio-research",
   "owner": {
-    "name": "Anthropic"
+    "name": "donbr"
   },
   "plugins": [
     {
